@@ -1,2 +1,2 @@
 # AuthExampleApp
-GoLang &amp; AngularJs Auth Example App
+GoLang &amp; AngularJs JWT Auth Example App
